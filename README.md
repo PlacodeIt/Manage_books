@@ -11,7 +11,7 @@ Each folder represents a different development stage — from basic object-orien
 | Folder | Description |
 |--------|--------------|
 | **Book2plus** | OOP-based version using in-memory data structures (`Dictionary`, `HashSet`) and enums. |
-| **Book2edition_db** *(or Book23)* | Advanced version using **SQL Server (ADO.NET)** for persistent storage. |
+| **Book2edition_db** | Advanced version using **SQL Server (ADO.NET)** for persistent storage. |
 
 ---
 
