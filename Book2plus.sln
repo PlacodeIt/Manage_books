@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArusiBook2", "ArusiBook2\ArusiBook2.csproj", "{A1ECC295-C9A4-476A-83DE-175236DCDF3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1ECC295-C9A4-476A-83DE-175236DCDF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1ECC295-C9A4-476A-83DE-175236DCDF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1ECC295-C9A4-476A-83DE-175236DCDF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1ECC295-C9A4-476A-83DE-175236DCDF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30F3B392-F99D-4242-A7EC-A63B6859AE96}
+	EndGlobalSection
+EndGlobal
